@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **IT Support and Data Analysis**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Data Analysis, Networking**
 
 - 📫 How to reach me **mcelepkolu@outlook.com**
 
