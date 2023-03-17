@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning about **Data Analysis**
 
-- 💬 Ask me about **Python, Data Analysis, Networking**
-
 - 📫 How to reach me **mcelepkolu@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
